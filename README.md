@@ -1,4 +1,4 @@
-# demo2
+# to-do-app
 
 A new Flutter project.
 
